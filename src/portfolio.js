@@ -185,9 +185,24 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
+      company: "Scraperrs",
+      companylogo: require("./assets/images/scraperrs_logo.jpeg"),
+      date: "Jan 2025 – Present",
+      desc: "Collaborated closely with front-end teams to ensure seamless API integration,\n" +
+        " enhancing overall user experience.Designed and implemented robust cloud-based solutions leveraging AWS services,\n" +
+        " including RDS, S3, EBS, ECS, EC2, EKS, and Route 53, to ensure high availability and scalability.\n" +
+        " \nCurrently leading the development of a white-label product for managing multiple salons,\n" +
+        " enabling efficient management of branches, bookings, and operations, tailored to meet diverse client needs.",
+      descBullets: [
+        // "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        // "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      ]
+    },
+    {
+      role: "Software Engineer",
       company: "Zweidevs",
       companylogo: require("./assets/images/zweidevs_logo.png"),
-      date: "Jan 2024 – Present",
+      date: "Jan 2024 – Jan 2025",
       desc: "Developed and maintained scalable backend services using\n" +
         "Django Rest Framework, improving API response times by\n" +
         "20%.\n" +
