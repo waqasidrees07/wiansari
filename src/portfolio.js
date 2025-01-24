@@ -421,8 +421,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3016884573",
-  email_address: "waqasidrees15@gmail.com"
+  number: "+92-3156884368",
+  email_address: "contact@wiansari.com"
 };
 
 // Twitter Section
