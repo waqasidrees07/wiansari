@@ -23,7 +23,7 @@ const greeting = {
   username: "Waqas Idrees",
   title: "Hi all, I'm Waqas Idrees",
   subTitle: emoji(
-    "Aspiring Python Django developer with 2+ years of experience building scalable, user-centric\n" +
+    "Aspiring Python Django developer with 3+ years of experience building scalable, user-centric\n" +
     "applications. Proficient in Python, Django, REST APIs, and cloud technologies like AWS. Known for a\n" +
     "strong problem-solving mindset, attention to detail, and a passion for leveraging modern technologies\n" +
     "to deliver impactful solutions."
@@ -266,7 +266,7 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/assessiq.webp"),
-      projectName: "AssessIQ Ai",
+      projectName: "AssessIQ AI",
       projectDesc: "assessIQ is a AI based SaaS Solution that will scan, analyze, report cyber risk and weakness in your\n" +
         "cloud and on-prem infrastructure, and design an action plan to avoid costly data breaches.",
       footerLink: [
@@ -278,12 +278,34 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/practiceToolAi (1).png"),
-      projectName: "Practice Tool Ai",
+      projectName: "Practice Tool AI",
       projectDesc: "Practice Tool AI offers listening, speaking and pronunciation practice activities, along with live classes for English learners from different backgrounds. We create an effective linguistic immersion focusing on the most essential skills to build for fluency.",
       footerLink: [
         {
           name: "Visit Website",
           url: "https://practicetoolai.demystifyenglish.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/stylz_app.png"),
+      projectName: "Stylz",
+      projectDesc: "Stylz is a SaaS-based salon management platform designed for businesses in Saudi Arabia. It enables customers to discover nearby salons and book appointments seamlessly. Salon staff can efficiently manage their operations through an intuitive and user-friendly dashboard, ensuring a streamlined and enhanced customer experience.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://stylz.me"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/pulsse.png"),
+      projectName: "Pulsse",
+      projectDesc: "Pulsse is a SaaS-based application designed for organizations to track and manage their retail customers using AI technology. By registering their cameras, businesses can monitor customer interactions and streamline operations, all from a centralized dashboard.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: ""
         }
       ]
     }
